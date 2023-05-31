@@ -1,4 +1,6 @@
 # EXNO-04-Attach-Rifle-with-character-mesh
+#### PAVITHRA G
+#### 212221240036
 ## Aim:
 ### To Attach Rifle with character mesh and implementation bullet spawn from Rifle
 ## Algorithm:
@@ -21,7 +23,7 @@
 ### GUN ATTACHED TO CHARACTER:
 ![Screenshot (49)](https://github.com/gpavithra673/EXNO-04-Attach-Rifle-with-character-mesh/assets/93427264/1b0e1900-fe2a-40d4-8ef3-b835f03a9b6d)
 
-### GUN EQIUP:
+### GUN EQUIP:
 ![Screenshot (50)](https://github.com/gpavithra673/EXNO-04-Attach-Rifle-with-character-mesh/assets/93427264/b19e55d9-e376-4d58-a5e7-d632c9e9ada4)
 
 ### BULLTE FIRE:
